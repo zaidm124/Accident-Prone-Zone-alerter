@@ -73,6 +73,7 @@ This model will detect whether an accident is hapenning or not in a video.
 So in a video each frame will be checked and if the frame has an accident, then 
 it can be differentiated.
 
+
 ### Problems we faced:
 ```
 1.] We tried using video object detection but were unable to succed using that method, due to 
